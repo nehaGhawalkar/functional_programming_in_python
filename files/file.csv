@@ -1,0 +1,62 @@
+uid,username,item type,item,startdate,expecteddate,progress,source,destination,location status
+1,A,electronics,apple iphone,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+1,A,electronics,apple iphone,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+10,A,fruit,apple iphone,01/09/2020,05/09/2020,inprogress,pune ,mumbai,abc
+1,A,fruit,apple iphone,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+2,B,vehicle,cycle,02/09/2020,06/09/2020,hold,india,usa,warehouse
+3,C,electronics,iphone,03/09/2020,10/09/2020,inprogress,usa,india,warehouse
+4,D,home,mattress,01/09/2020,02/09/2020,reached,pune,delhi,pqr
+5,E,electronics,phone,01/09/2020,03/09/2020,inprogress,bangalore,mumbai,abc
+6,F,home,mattress,01/09/2020,02/09/2020,reached,mumbai,delhi,pqr
+7,B,vehicle,bike,02/09/2020,06/09/2020,hold,india,usa,warehouse
+8,B,vehicle,truck,02/09/2020,06/09/2020,hold,india,usa,warehouse
+9,B,fruit,mango,03/09/2020,06/09/2020,hold,india,usa,warehouse
+11,G,electronics,phone,01/09/2020,03/09/2020,inprogress,bangalore,mumbai,abc
+24,H,home,mattress,01/09/2020,02/09/2020,reached,mumbai,delhi,pqr
+12,I,vehicle,bike,05/09/2020,08/09/2020,completed,india,usa,warehouse
+13,J,vehicle,truck,02/09/2020,09/09/2020,hold,india,usa,warehouse
+14,K,fruit,mango,03/09/2020,10/09/2020,hold,india,usa,warehouse
+15,L,electronics,apple,01/09/2020,04/09/2020,inprogress,pune,mumbai,warehouse
+16,M,electronics,apple,01/09/2020,11/09/2020,inprogress,pune,mumbai,warehouse
+17,N,fruit,apple,01/09/2020,12/09/2020,inprogress,pune ,mumbai,abc
+18,O,vehicle,cycle,02/09/2020,06/09/2020,hold,india,usa,warehouse
+19,P,electronics,apple,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+20,Q,electronics,apple,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+21,R,fruit,apple,01/09/2020,05/09/2020,inprogress,pune ,mumbai,abc
+22,S,vehicle,cycle,02/09/2020,06/09/2020,hold,india,usa,warehouse
+23,T,electronics,apple,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+25,G,vehicle,truck,01/09/2020,10/09/2020,hold,india,usa,mnc
+26,G,fruit,mango,05/09/2020,06/09/2020,hold,india,usa,wer
+27,G,home,matress,02/09/2020,06/09/2020,inprogress,delhi,chennai,warehouse
+28,H,home,pillows,02/09/2020,06/09/2020,completed,delhi,chennai,warehouse
+29,H,home,matress,02/09/2020,06/09/2020,completed,delhi,chennai,warehouse
+30,I,fruit,mango,03/09/2020,06/09/2020,hold,india,usa,warehouse
+25,G,vehicle,truck,01/09/2020,10/09/2020,hold,india,usa,mnc
+25,G,vehicle,truck,01/09/2020,10/09/2020,hold,india,usa,mnc
+27,G,home,matress,02/09/2020,06/09/2020,inprogress,delhi,chennai,warehouse
+16,M,electronics,apple,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+16,M,electronics,apple,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+2,B,vehicle,cycle,02/09/2020,06/09/2020,hold,india,usa,warehouse
+2,B,home,matress,02/09/2020,06/09/2020,inprogress,delhi,chennai,warehouse
+2,B,vehicle,cycle,02/09/2020,06/09/2020,hold,india,usa,warehouse
+2,B,home,matress,02/09/2020,06/09/2020,inprogress,delhi,chennai,warehouse
+20,Q,electronics,apple,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+21,R,fruit,apple,01/09/2020,05/09/2020,inprogress,pune ,mumbai,abc
+22,S,vehicle,cycle,02/09/2020,06/09/2020,hold,india,usa,warehouse
+23,T,electronics,apple,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+16,M,electronics,apple,01/09/2020,05/09/2020,completed,pune,mumbai,warehouse
+17,N,fruit,apple,01/09/2020,05/09/2020,inprogress,pune ,mumbai,abc
+18,O,vehicle,cycle,02/09/2020,06/09/2020,hold,india,usa,warehouse
+19,P,electronics,apple,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+16,M,electronics,apple,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+17,N,fruit,apple,01/09/2020,05/09/2020,inprogress,pune ,mumbai,abc
+18,O,vehicle,cycle,02/09/2020,06/09/2020,hold,india,usa,warehouse
+19,P,electronics,apple,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+18,O,vehicle,cycle,02/09/2020,06/09/2020,hold,india,usa,warehouse
+19,P,electronics,apple,01/09/2020,05/09/2020,inprogress,pune,mumbai,warehouse
+101,Z,electronics,iphone,01/09/2020,05/09/2020,completed,delhi,mumbai,warehouse
+102,Z,fruit,iphone,01/09/2020,05/09/2020,completed,delhi,mumbai,warehouse
+101,Z,electronics,iphone,01/09/2020,05/09/2020,completed,delhi,mumbai,warehouse
+102,Z,fruit,iphone,01/09/2020,05/09/2020,completed,delhi,mumbai,warehouse
+101,Z,electronics,iphone,01/09/2020,05/09/2020,completed,delhi,mumbai,warehouse
+102,Z,fruit,iphone,01/09/2020,05/09/2020,completed,delhi,mumbai,warehouse
